@@ -1,2 +1,2 @@
 # BASH-Scripts
-My basic BASH Scripts for SySAD
+My basic BASH Scripts dump for SySAD
