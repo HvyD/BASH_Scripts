@@ -1,6 +1,6 @@
 #! /bin/bash
-#Simple PingSweep Script
 
+#Simple PingSweep Script
 echo "Please enter the subnets:"
 read SUBNET
 
