@@ -1,6 +1,6 @@
 #! bin/bash
-# Simple Password Generator that uses openssl
 
+# Simple Password Generator that uses openssl
 echo "This is a Password Generator"
 echo "Please enter the length of password: "
 read PASS_LEN
