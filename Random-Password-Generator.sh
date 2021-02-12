@@ -1,4 +1,4 @@
-#! bin/bash
+#! /bin/bash
 
 # Simple Password Generator that uses openssl
 echo "This is a Password Generator"
